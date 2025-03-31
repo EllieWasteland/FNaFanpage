@@ -28,7 +28,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1)), url('https://i.redd.it/variations-of-this-fnaf-wallpaper-v0-p0wlcyrjix3c1.jpg?width=3500&format=pjpg&auto=webp&s=eea423d0a5199c72ba788db06b3f3582b83ca2eb');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://i.redd.it/variations-of-this-fnaf-wallpaper-v0-p0wlcyrjix3c1.jpg?width=3500&format=pjpg&auto=webp&s=eea423d0a5199c72ba788db06b3f3582b83ca2eb');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
